@@ -31,4 +31,21 @@ Event
     * Season duration
         * EG) Pre-season, Season, Post-season
 
+Place - name, longitude, latitude
+
+* Country
+* City
+* Arena
+
+Portable Good
+
+* Puck
+* Net
+* Stick
+* Armor
+    * Helmet
+    * Shoulder Pads
+    * Shin Pads
+    * Skates
+
 # Modules
