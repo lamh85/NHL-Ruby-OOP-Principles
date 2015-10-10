@@ -10,7 +10,7 @@ Considerations:
 
 Organization
 
-* League
+* League - location, name
     * EG) NHL, AHL, WHL, OHL, Quebec
 * League department
     * EG) Discipline, Marketing
@@ -19,17 +19,18 @@ Organization
 
 Person - name, profession, salary, role
 
-* Player - position
+* Player - position, handedness, team
 * Coach
 * General Manager
 * President
 
-Event
+Event - name, league, start date, end date, location, location type
 
 * Hockey match
-* Season
+* Season (when there are matches)
     * Season duration
         * EG) Pre-season, Season, Post-season
+* Free agency
 
 Place - name, longitude, latitude
 
